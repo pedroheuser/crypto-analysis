@@ -1,22 +1,17 @@
-# Python
+
 __pycache__/
 *.py[cod]
 
-# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Sistema Operacional
 .DS_Store
 Thumbs.db
 
-# Ambientes virtuais
 env/
 venv/
 
-# Credenciais
-*.env
-config/api_keys.py
+.env
+config/config.py
 
-# Dados grandes
 data/*.csv
 data/*.json
